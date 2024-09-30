@@ -7,7 +7,7 @@ html{
     box-sizing: border-box
 }
 body{
-	background: #151515 url(../images/intro-bg.png) no-repeat center bottom;
+	background: #151515 url(../Images/intro-bg.png) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -18,7 +18,7 @@ body{
 }
 
 #project-sec{
-    background: #151515 url(../images/intro-bg.png) no-repeat center bottom;
+    background: #151515 url(../Images/intro-bg.png) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
